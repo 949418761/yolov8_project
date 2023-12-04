@@ -1,0 +1,11 @@
+# dataset path
+path: C:/Users/admin/Desktop/contest/mingchu/yolobuild/YOLO_model_train
+train: ./dataset/images/train
+val: ./dataset/images/val
+test: ./dataset/images/test
+
+# number of classes
+nc: 5
+
+# class names
+names: ['ls', 'cb', 'm', 'cy', 'g']
